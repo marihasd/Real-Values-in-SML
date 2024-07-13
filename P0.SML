@@ -2,7 +2,6 @@
 
 Programming Assignment 0: Proof of Access
 Class and professor removed for privacy purposes. 
-Due 20 January 2024 11:59 pm
 Submitted 20 January 2024 11:30pm
 Submitted code works in SML
 *)
