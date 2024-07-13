@@ -1,5 +1,4 @@
 ;; <P3.lisp>
-;; Due March 2 2024 at 11:59 Pm
 ;; Submitted March 2 2024 at 9:30 pm
 
 ;; to run in clisp, run clisp by using the clisp command
