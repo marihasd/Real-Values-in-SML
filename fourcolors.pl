@@ -1,4 +1,4 @@
-% Due 4 May 2024 11:59 pm
+
 % Submitted 4 May 2024 8:15pm
 % Four-color Map Problem Solver for South America
 %
