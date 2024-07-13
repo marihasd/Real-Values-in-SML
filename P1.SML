@@ -1,6 +1,5 @@
 (*
 P1 Programming Assignment 1
-Due February 3, 2024 11:59 pm
 Submitted February 3, 2024 11:30 pm
 
 This code accepts a list, integer, comparator function, and discriminator function and works to sort and insert the list as requested.
